@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-stealing-the-diamond/static/css/main.799e85e5.css",
+    "main.js": "/react-stealing-the-diamond/static/js/main.44052b8c.js",
+    "static/js/453.86c519cf.chunk.js": "/react-stealing-the-diamond/static/js/453.86c519cf.chunk.js",
+    "index.html": "/react-stealing-the-diamond/index.html",
+    "main.799e85e5.css.map": "/react-stealing-the-diamond/static/css/main.799e85e5.css.map",
+    "main.44052b8c.js.map": "/react-stealing-the-diamond/static/js/main.44052b8c.js.map",
+    "453.86c519cf.chunk.js.map": "/react-stealing-the-diamond/static/js/453.86c519cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.44052b8c.js"
+  ]
+}
